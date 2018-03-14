@@ -1,0 +1,15 @@
+{
+    "name": "vijaitest/vvvtest",
+    "description": "added keywords package related keywords",
+    "type": "library",
+    "require": {
+        "#3": "package#3"
+    },
+    "license": "test",
+    "authors": [
+        {
+            "name": "Vijaya Kumar",
+            "email": "vijai@mail.com"
+        }
+    ]
+}
